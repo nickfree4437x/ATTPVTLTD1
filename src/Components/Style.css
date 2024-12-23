@@ -1,0 +1,36 @@
+.sec li{
+    display: inline;
+    margin: 10px;
+}
+.sec li a{
+    cursor: pointer;
+    color: black;
+    margin: 10px;
+}
+.sec li a:hover{
+    cursor: pointer;
+    color: green;
+    border-bottom: 2px solid green;
+}
+.nv{
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1)
+}
+.full1{
+    font-weight: 500;
+    border: 2px solid green;
+    padding: 8px;
+    border-radius: 5px;
+    width: 180px;
+}
+.work{
+    margin-left: 150px;
+    margin-top: -40px;
+    color: green;
+    border: 2px solid green;
+    font-weight: 400;
+    padding: 7px;
+    width: 22%;
+}
+.work:hover{
+    background: grey;
+}
